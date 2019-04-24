@@ -2,6 +2,8 @@ baseURL = "example.com"
 title = "Manis"
 theme = "manis"
 
+publishDir = "docs"
+
 # Copyright notice. Note: You can use HTML tag here
 copyright = "&copy; 2019 Yurizal Susanto"
 pluralizeListTitles = false
