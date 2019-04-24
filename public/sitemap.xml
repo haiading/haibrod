@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>example.com/posts/hiji/</loc>
+    <lastmod>2019-04-23T09:05:32+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>example.com/</loc>
+    <lastmod>2019-04-23T09:05:32+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>example.com/posts/</loc>
+    <lastmod>2019-04-23T09:05:32+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
